@@ -1,0 +1,24 @@
+{
+  "name": "eleventy-tut",
+  "version": "1.0.0",
+  "description": "This is a lame attempt at learning JAMstack",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattacraig/eleventy-tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattacraig/eleventy-tut/issues"
+  },
+  "homepage": "https://github.com/mattacraig/eleventy-tut#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
